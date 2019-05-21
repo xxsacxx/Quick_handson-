@@ -44,7 +44,7 @@ Beginner kaggle project
 8- Cross valid
 
 ## Algorithms ## :
-linear regression,logistic regression ,Random Forest, endemble method
+linear regression,logistic regression ,Random Forest, endemble method and others
 
 ## ML For time series ##
 
