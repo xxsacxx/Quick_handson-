@@ -1,9 +1,10 @@
 ## Basic Python ##
-1- Numpy and pandas
+1- lists,dictionaries,collections,Datetime
 
-2- lists,dictionaries,collections,Datetime
 
-3- iterators,list comprehension
+2- iterators,list comprehension
+
+3- Numpy and Pandas
 
 4- Matplotlib
 
